@@ -1,0 +1,39 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "name": "Estudiar Matemáticas",
+      "description": "Completa una hora de estudio enfocado en álgebra y cálculo.",
+      "reward": "5 puntos",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "name": "Leer un libro",
+      "description": "Lee 30 minutos de cualquier libro académico o de desarrollo personal.",
+      "reward": "3 puntos",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "name": "Meditar",
+      "description": "Realiza 10 minutos de meditación para mejorar tu concentración.",
+      "reward": "2 puntos",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "name": "Participar en clase",
+      "description": "Responde una pregunta en clase o participa en un debate.",
+      "reward": "4 puntos",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "name": "Ayudar a un compañero",
+      "description": "Ofrece ayuda o tutoría a un compañero de clase.",
+      "reward": "6 puntos",
+      "completed": false
+    }
+  ]
+}
